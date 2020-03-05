@@ -1,2 +1,2 @@
 # School
-Python programm written for school
+Python programms written for school
